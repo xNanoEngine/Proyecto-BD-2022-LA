@@ -4,6 +4,8 @@ Integrantes: Sebastían Paredes - Marcelo Triviños - Matías Martínez
 
 Region: Los rios (XIV)
 
+Fuentes a ocupar:
+
 https://redlosrios.com/ -- Red de los rios
 
 http://www.australvaldivia.cl/ -- Diario Austral de los rios
