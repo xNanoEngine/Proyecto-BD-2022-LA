@@ -1,0 +1,38 @@
+
+noticia: 
+	-id_noticia: int
+        -url: varchar(300)
+        -titulo: varchar(300)
+        -fecha_publicacion: date
+        -contenido: varachar(500)
+
+autor: 
+	-id_autor: int
+        -nombre: varchar(300)
+
+medio_prensa: 
+	-id_medio: int
+        -nombre: char (300)
+        -fecha_creacion: date
+        -url: char(300)
+        -region: char(300)
+        -pais: char(300)
+        -idioma: varchar(300)
+
+dueno: 
+	-id_dueno: int
+        -nombre: varchar(300)
+        -tipo_persona: varchar(300)
+        -fecha_adquision: date
+
+persona:
+	-id_persona: int
+	-nombre: varchar(300)
+        -profesion: varchar(300)
+        -fecha_nacimiento,: date
+        -nacionalidad: varchar(300)
+	-popularidad: int
+
+
+
+
