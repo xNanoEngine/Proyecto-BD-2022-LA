@@ -10,9 +10,9 @@ https://redlosrios.com/ -- Red de los rios
 
 http://www.australvaldivia.cl/ -- Diario Austral de los rios
 
-www.diarioelranco.cl -- Diaro el ranco
+https://www.diarioelranco.com/ -- Diario el ranco
 
-https://www.elnaveghable.cl/ -- Elnaveghable
+https://www.elnaveghable.cl/ -- El naveghable
 
 https://infomariquina.cl/ -- Infomariquina
 
