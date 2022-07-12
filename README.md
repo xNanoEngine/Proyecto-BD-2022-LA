@@ -6,22 +6,42 @@ Region: Los rios (XIV)
 
 Fuentes a ocupar:
 
-https://redlosrios.com/ -- Red de los rios
+1. https://redlosrios.com/ -- Red de los rios
 
-http://www.australvaldivia.cl/ -- Diario Austral de los rios
+2. http://www.australvaldivia.cl/ -- Diario Austral de los rios
 
-https://www.diarioelranco.com/ -- Diario el ranco
+3. https://www.diarioelranco.com/ -- Diario el ranco
 
-https://www.elnaveghable.cl/ -- El naveghable
+4. https://www.elnaveghable.cl/ -- El naveghable
 
-https://infomariquina.cl/ -- Infomariquina
+5. https://infomariquina.cl/ -- Infomariquina
 
-https://www.rioenlinea.cl/ -- Rio en linea
+6. https://www.rioenlinea.cl/ -- Rio en linea
 
-https://www.soychile.cl/valdivia/ -- SoyChileValdivia
+7. https://www.soychile.cl/valdivia/ -- SoyChileValdivia
 
-https://www.diariopaillaco.cl/ -- Diario Paillaco
+8. https://www.diariopaillaco.cl/ -- Diario Paillaco
 
-http://www.noticiaslosrios.cl/ -- Noticias los rios
+9. http://www.noticiaslosrios.cl/ -- Noticias los rios
 
-https://www.diariolaguino.cl/ -- Diario Languino
+10. https://www.diariolaguino.cl/ -- Diario Languino
+
+11. https://prensamariquina.cl/ - Prensamariquina 
+
+12. https://www.fmpulso.cl/secciones/regional/valdivia/ - fmpulso 
+
+13. https://panguipullinoticias.cl/home/ - panguipullinoticias
+
+14. https://redpanguipulli.cl/ - redpanguipulli
+
+15. https://www.soychile.cl/valdivia - soychile
+ 
+16. https://www.elinformadorvaldiviano.cl/ - elinformadorvaldiviano
+
+17. https://www.valdivianoticias.cl/ - valdivia noticias
+
+18. https://www.losriosaldia.cl/category/noticias/comuna/valdivia/ - los rios al dia
+
+19. https://www.eldinamo.cl/valdivia-t42936 -el dianamo
+
+20. https://www.losriosinformado.cl/ - los rios informados
