@@ -31,8 +31,8 @@ persona:
         -profesion: varchar(300)
         -fecha_nacimiento,: date
         -nacionalidad: varchar(300)
-	-popularidad: int
-
-
-
-
+	
+popularidad: 
+	-id_popularidad: int
+	-nombre: varchar(300)
+	-fecha: date
