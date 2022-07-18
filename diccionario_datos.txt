@@ -36,3 +36,4 @@ popularidad:
 	-id_popularidad: int
 	-nombre: varchar(300)
 	-fecha: date
+	-cantidad: int
