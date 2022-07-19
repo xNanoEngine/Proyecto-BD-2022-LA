@@ -1,10 +1,12 @@
 from random import choice
-from utils import USER_AGENT_LIST, format_date
-import numpy as np
+from utils import USER_AGENT_LIST
 
 from requests_html import HTMLSession
 import w3lib.html
 import html
+from datetime import datetime
+from locale import setlocale
+from locale import LC_TIME
 
 URL_SEED_LIST = "https://www.diarioelranco.com/"
 
@@ -44,7 +46,12 @@ def diario_el_ranco():
 			content = content.strip()
 			text = text + " " + content
 
-		information = {"url": url, "date": format_date(date), "title": title, "text": text}
+		# se formatea la fecha
+		setlocale(LC_TIME, 'es_CL.UTF-8') # se configura locale
+		date = datetime.strptime(date, "publicado el %d de %B de %Y") # se obtiene el objeto datetime
+		date = date.strftime("%Y-%m-%d") # se fomatea a 'YYYY-MM-DD'
+
+		information = {"url": url, "date": date, "title": title, "text": text}
 		news.append(information)
 	return news
 
@@ -52,4 +59,5 @@ if  __name__ == "__main__":
 	news = diario_el_ranco()
 	#for i in news:
 	#	print(i['title'])
+	print(len(news))
 	print(news[0])
