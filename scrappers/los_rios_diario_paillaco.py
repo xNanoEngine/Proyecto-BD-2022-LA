@@ -77,7 +77,7 @@ def red_de_los_rios():
 			
 		date = date.strftime("%Y-%m-%d") # se fomatea a 'YYYY-MM-DD'
 
-		information = {"url": article_url, "date": date, "title": title, "text": text}
+		information = {"url": article_url, "date": date, "title": title, "text": text[0:-11]}
 		news.append(information)
 	return news
 
