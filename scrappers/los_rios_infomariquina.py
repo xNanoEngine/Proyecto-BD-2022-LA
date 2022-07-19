@@ -1,10 +1,12 @@
 from random import choice
-from utils import USER_AGENT_LIST, format_date
-import numpy as np
+from utils import USER_AGENT_LIST
 
 from requests_html import HTMLSession
 import w3lib.html
 import html
+from datetime import datetime
+from locale import setlocale
+from locale import LC_TIME
 
 URL_SEED_LIST = "https://infomariquina.cl/"
 
@@ -56,8 +58,13 @@ def red_de_los_rios():
 			content = html.unescape(content)
 			content = content.strip()
 			text = text + " " + content
+			
+		# se formatea la fecha
+		setlocale(LC_TIME, 'es_CL.UTF-8') # se configura locale
+		date = datetime.strptime(date, "%B %d, %Y") # se obtiene el objeto datetime
+		date = date.strftime("%Y-%m-%d") # se fomatea a 'YYYY-MM-DD'
 
-		information = {"url": article_url, "date": format_date(date), "title": title, "text": text}
+		information = {"url": article_url, "date": date, "title": title, "text": text}
 		news.append(information)
 	return news
 
@@ -65,4 +72,5 @@ if  __name__ == "__main__":
 	news = red_de_los_rios()
 	#for i in news:
 	#	print(i['title'])
+	print(len(news))
 	print(news[0])

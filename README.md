@@ -8,7 +8,7 @@ Fuentes a ocupar:
 
 1. https://redlosrios.com/ -- Red de los rios
 
-2. http://www.australvaldivia.cl/ -- Diario Austral de los rios
+2. https://www.diariocorral.cl/ -- Diario Corral
 
 3. https://www.diarioelranco.com/ -- Diario el ranco
 
@@ -18,7 +18,7 @@ Fuentes a ocupar:
 
 6. https://www.rioenlinea.cl/ -- Rio en linea
 
-7. https://www.soychile.cl/valdivia/ -- SoyChileValdivia
+7. https://www.diariodevaldivia.cl/ -- Diario de valdivia
 
 8. https://www.diariopaillaco.cl/ -- Diario Paillaco
 
@@ -26,22 +26,22 @@ Fuentes a ocupar:
 
 10. https://www.diariolaguino.cl/ -- Diario Languino
 
-11. https://prensamariquina.cl/ - Prensamariquina 
+11. https://www.diariofutrono.cl/ -- Diario Futrono
 
-12. https://www.fmpulso.cl/secciones/regional/valdivia/ - fmpulso 
+12. https://www.fmpulso.cl/secciones/regional/valdivia/ -- fm pulso 
 
-13. https://panguipullinoticias.cl/home/ - panguipullinoticias
+13. https://panguipullinoticias.cl/home/ -- panguipulli noticias
 
-14. https://redpanguipulli.cl/ - redpanguipulli
+14 https://www.diarioriobueno.cl/ -- Diario Rio Bueno
 
-15. https://www.soychile.cl/valdivia - soychile
+15. https://www.diariosanjose.cl/ -- Diario San Jose
  
-16. https://www.elinformadorvaldiviano.cl/ - elinformadorvaldiviano
+16. https://www.elinformadorvaldiviano.cl/ -- el informador valdiviano
 
-17. https://www.valdivianoticias.cl/ - valdivia noticias
+17. https://www.diariolanco.cl/ -- Diario Lanco
 
-18. https://www.losriosaldia.cl/category/noticias/comuna/valdivia/ - los rios al dia
+18. https://www.losriosaldia.cl/category/noticias/comuna/valdivia/ -- los rios al dia
 
-19. https://www.eldinamo.cl/valdivia-t42936 -el dianamo
+19. https://www.losriosinformado.cl/ -- los rios informados
 
-20. https://www.losriosinformado.cl/ - los rios informados
+20. https://www.diariolagoranco.cl/ -- Diario Lago Ranco
